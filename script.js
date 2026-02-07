@@ -61,7 +61,7 @@ noBtn.addEventListener("click", () => {
 
 yesBtn.addEventListener("click", () => {
     // title.textContent = "Yippeeee!";
-    title.textContent = "This time i did manipulated you XD"
+    title.textContent = "I knew it <3 !";
 
     catImg.src = "cat_dance.gif";
 
@@ -71,5 +71,6 @@ yesBtn.addEventListener("click", () => {
 
     finalText.style.display = "block";
 });
+
 
 
