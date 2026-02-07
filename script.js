@@ -60,9 +60,8 @@ noBtn.addEventListener("click", () => {
 // YES is clicked
 
 yesBtn.addEventListener("click", () => {
-    // title.textContent = "Yippeeee!";
-    title.textContent = "I knew it <3 !";
-
+    title.textContent = "Yippeee, I knew it <3 !";
+    
     catImg.src = "cat_dance.gif";
 
     document.querySelector(".letter-window").classList.add("final");
@@ -71,6 +70,7 @@ yesBtn.addEventListener("click", () => {
 
     finalText.style.display = "block";
 });
+
 
 
 
